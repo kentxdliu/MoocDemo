@@ -1,2 +1,3 @@
 MoocDoc Demo.
 MoocDoc PUSH second.
+Git Clone Demo
